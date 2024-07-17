@@ -20,12 +20,12 @@ This project is a demonstration of an Internet Billing System implemented in Jav
 ## Usage
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/internet-billing-demo.git
+   git clone https://github.com/amritBskt/Internet-Billing-Demo/Java Programming.git
    ```
   
 2. **Navigate to the Project Directory**
    ```bash
-   cd internet-billing-demo
+   cd Java Programming
    ```
 
 3. **Compile the Java Files**
