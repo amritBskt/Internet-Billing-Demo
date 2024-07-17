@@ -15,6 +15,7 @@ This project is a demonstration of an Internet Billing System implemented in Jav
 - **FileManager.java**: Utility class for printing characters to the console for UI formatting.
 - **InternetBillingPortal.java**: Main entry point of the application, providing the user interface and navigation.
 - **PaymentManager.java**: Handles payment processing for customers.
+- **Customers.txt**: Stores customers details.
 
 ## Usage
 1. **Clone the Repository**
