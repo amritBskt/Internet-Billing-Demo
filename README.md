@@ -1,4 +1,4 @@
-# Internet Billing System Projects
+# Internet Billing Demo Projects
 
 ## Overview
 This repository contains projects demonstrating Internet Billing Systems implemented in both Java and C. Each project includes features such as adding new customers, searching for existing customers, making payments, and removing customers.
